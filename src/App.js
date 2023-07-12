@@ -24,12 +24,12 @@ const App = () => {
       date: new Date(2021, 5, 12),
     },
   ]);
-  const addExpenseHandler = expense => {
-    setExpenses([expense,...expenses]);
+  const addExpenseHandler = (expense) => {
+    setExpenses((prevState) => [expense, ...prevState]);
   };
   return (
     <div>
-      <NewExpense onAddExpense={addExpenseHandler}/>
+      <NewExpense onAddExpense={addExpenseHandler} />
       <Expenses items={expenses} />
     </div>
   );
