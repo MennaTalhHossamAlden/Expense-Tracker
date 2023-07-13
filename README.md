@@ -55,8 +55,9 @@ The project uses the following dependencies:
 
 
 
-https://github.com/MennaTalhHossamAlden/Expense-Tracker/assets/76497207/e7058a0d-3c66-42d2-8181-d3aea7b7c759
 
+
+https://github.com/MennaTalhHossamAlden/Expense-Tracker/assets/76497207/aa6c3c51-77e9-477d-a222-83075108f1e6
 
 
 
