@@ -51,6 +51,15 @@ The project uses the following dependencies:
 - react-dom: ^18.2.0
 - react-scripts: 5.0.1
 
+## video <a name = "vedio"></a>
+
+
+
+https://github.com/MennaTalhHossamAlden/Expense-Tracker/assets/76497207/e7058a0d-3c66-42d2-8181-d3aea7b7c759
+
+
+
+
 ## Contributors <a name = "Contributors"></a>
 
 <table>
